@@ -3,7 +3,6 @@ var ForagerBee = function() {
   this.color = 'yellow';
   this.food = 'jelly';
   this.job = 'find pollen';
-  this.honeyPot = 0;
   this.canFly = true;
   this.treasureChest = [];
 };
