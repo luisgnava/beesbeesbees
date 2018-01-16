@@ -4,6 +4,4 @@ var Bee = function() {
   this.food = 'jelly';
   this.job = 'keep on growing'
 };
-Bee.prototype.eat = function(); {
-
-}
+Bee.prototype.eat = function() {};
